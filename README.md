@@ -9,7 +9,7 @@ CHOGOON CHICKEN SCRATCH V2는 조군(CHOGOON)이 제작한 한글 폰트입니�
 - **라이선스**: SIL Open Font License, Version 1.1
 
 ## 다운로드
-- 공식 배포처: [조군의 블로그](블로그 링크를 여기에 입력하세요)
+- 공식 배포처: [조군의 블로그](https://blog.naver.com/hamalyric/223539382516)
 - 백업 다운로드:
   - [CHOGOONChickenScratchV2-Medium.ttf](https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V2/blob/main/CHOGOONChickenScratchV2-Medium.ttf)
   - [CHOGOONChickenScratchV2-Medium.otf](https://github.com/chogoons/CHOGOON-CHICKEN-SCRATCH-V2/blob/main/CHOGOONChickenScratchV2-Medium.otf)
